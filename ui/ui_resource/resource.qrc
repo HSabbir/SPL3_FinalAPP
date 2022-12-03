@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="image">
+    <file>arrow-back-icon.png</file>
+    <file>mic_icon.png</file>
+    <file>Save-icon.png</file>
+    <file>icon_play.png</file>
+    <file>mic_img.png</file>
+  </qresource>
+</RCC>
